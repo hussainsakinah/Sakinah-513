@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/Sakinah-513/static/css/main.f855e6bc.css",
-    "main.js": "/Sakinah-513/static/js/main.956d30a1.js",
+    "main.css": "/Sakinah-513/static/css/main.e6c13ad2.css",
+    "main.js": "/Sakinah-513/static/js/main.897fb142.js",
     "static/js/787.0f7dc5a1.chunk.js": "/Sakinah-513/static/js/787.0f7dc5a1.chunk.js",
-    "static/media/logo.svg": "/Sakinah-513/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Sakinah-513/index.html",
-    "main.f855e6bc.css.map": "/Sakinah-513/static/css/main.f855e6bc.css.map",
-    "main.956d30a1.js.map": "/Sakinah-513/static/js/main.956d30a1.js.map",
+    "main.e6c13ad2.css.map": "/Sakinah-513/static/css/main.e6c13ad2.css.map",
+    "main.897fb142.js.map": "/Sakinah-513/static/js/main.897fb142.js.map",
     "787.0f7dc5a1.chunk.js.map": "/Sakinah-513/static/js/787.0f7dc5a1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.956d30a1.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.897fb142.js"
   ]
 }
